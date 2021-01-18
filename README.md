@@ -1,2 +1,2 @@
 # Origamid
- Projetos do Curso Origamid
+ Projetos do Curso Origamid.
